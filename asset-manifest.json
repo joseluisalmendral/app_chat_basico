@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joseluisalmendral/app_chat_basico/static/css/main.81b24d6d.css",
+    "main.js": "/joseluisalmendral/app_chat_basico/static/js/main.bb6f2f0e.js",
+    "index.html": "/joseluisalmendral/app_chat_basico/index.html",
+    "main.81b24d6d.css.map": "/joseluisalmendral/app_chat_basico/static/css/main.81b24d6d.css.map",
+    "main.bb6f2f0e.js.map": "/joseluisalmendral/app_chat_basico/static/js/main.bb6f2f0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b24d6d.css",
+    "static/js/main.bb6f2f0e.js"
+  ]
+}
